@@ -23,6 +23,17 @@ Foi planejada uma comparação entre os dados da miniestação de baixo custo e 
 
 O projeto foi apresentado e exposto no **INPE Portas Abertas 2025**, em **São José dos Campos/SP**, junto ao então **Projeto Educação**, atualmente **Programa Educação**.
 
+
+### Alguns registros do projeto
+
+<p align="center">
+  <img src="Prot%C3%B3tipo%20v1.png" alt="Protótipo da Estação Meteorológica Educacional de Potim" width="31%">
+  <img src="Pr%C3%A1tica%20%281%29.jpg" alt="Atividade prática do Clube de Robótica de Potim" width="31%">
+  <img src="INPE%20de%20Portas%20Abertas.jpg" alt="Apresentação da Estação Meteorológica no INPE Portas Abertas 2025" width="31%">
+</p>
+
+Mais registros estão organizados no [índice de imagens](imagens/README.md).
+
 ## Objetivo educacional
 
 Registrar uma experiência de aprendizagem que reuniu construção de protótipos, programação, sensores, comunicação de dados e conceitos de IoT. O uso de materiais de baixo custo e o desenvolvimento de peças pelos alunos faziam parte dessa experiência.
