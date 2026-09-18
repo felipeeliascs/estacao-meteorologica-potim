@@ -1,0 +1,16 @@
+Non-Printable Extras:
+
+Neodymium Magnet, cylinder  2mm thick, 3mm diam (search eBay)
+Red Switches, glass envelope14mm long 2mm diam (search eBay)
+Thrust bearings, 8mm OD, 5 mmID, 2.5mm thick (search eBay)
+Rods for the bearings 5mm OD, rescued brass antenna tubing is ideal!
+Heat shrink tubing to make a small sleeve to adjust height off bearings
+Aluminium Tubing for "T" frame
+
+Electronics:
+
+Arduino Uno M3
+20x4 LCD DIsplay (+I2C Back pack)*
+Air Pressure+Temperature BMP 085*
+5V Source (eg old phone charger)
+* Check library required for your choice of hardware.
