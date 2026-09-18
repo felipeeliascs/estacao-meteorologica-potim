@@ -25,9 +25,10 @@ O artigo do Embarcados é uma referência técnica; ele não é uma fonte sobre 
 | --- | --- |
 | Código original do Arduino | [A PREENCHER: arquivo, autoria e versão] |
 | Esquemas e registros de montagem | [A PREENCHER: arquivos e procedência] |
-| Modelos 3D | [A PREENCHER: arquivos, autoria, versões e licenças] |
-| Fotografias do projeto e do evento | [A PREENCHER: arquivos, legendas, autoria e autorização de uso] |
-| Registro da participação no INPE Portas Abertas 2025 | [A PREENCHER: programa, publicação, fotografia ou outro registro disponível] |
+| Modelos 3D próprios dos alunos | [A PREENCHER: arquivos, autoria, versões e estado dos protótipos] |
+| Modelos 3D externos | Incluído o projeto **LTB Weather Station**, de **RobWLakes**, Thingiverse: https://www.thingiverse.com/thing:2849562 — licença indicada no material original como **cc-nc** |
+| Fotografias do projeto e do evento | Registros já adicionados ao repositório; revisar legendas, autoria e autorização de uso quando necessário |
+| Registro da participação no INPE Portas Abertas 2025 | Fotografia já adicionada ao repositório; documentação institucional adicional ainda pode ser incorporada |
 | Identificação da escola e da estação profissional | [A PREENCHER: nome da escola, modelo da estação e registro da instalação] |
 | Canal e dados do ThingSpeak | [A PREENCHER: link público e exportações disponíveis, sem chaves de API] |
 | Datasheets dos componentes de Potim | [A PREENCHER: links dos modelos efetivamente identificados] |
