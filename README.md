@@ -27,7 +27,7 @@ O projeto foi apresentado e exposto no **INPE Portas Abertas 2025**, em **São J
 
 Registrar uma experiência de aprendizagem que reuniu construção de protótipos, programação, sensores, comunicação de dados e conceitos de IoT. O uso de materiais de baixo custo e o desenvolvimento de peças pelos alunos faziam parte dessa experiência.
 
-As informações históricas desta versão foram fornecidas pelo responsável pelo repositório. Código, fotografias, modelos 3D, esquemas completos e conjuntos de dados ainda não foram fornecidos para inclusão.
+As informações históricas desta versão foram fornecidas pelo responsável pelo repositório. O repositório já inclui registros fotográficos do protótipo, das atividades com estudantes, dos testes na escola, de dados coletados e da apresentação no INPE Portas Abertas 2025. Também foi incorporado, apenas como referência complementar, um conjunto de modelos 3D de terceiro para estação meteorológica.
 
 ## Visão geral
 
@@ -97,9 +97,45 @@ estacao-meteorologica-potim/
 
 ## Como completar este registro
 
-Os marcadores **[A PREENCHER: ...]** identificam informações ausentes. Devem ser substituídos apenas por dados confirmados em registros ou no protótipo. A lista de pendências está no [roadmap](docs/roadmap.md).
+Os marcadores **[A PREENCHER: ...]** identificam informações ainda ausentes. Devem ser substituídos apenas por dados confirmados em registros ou no protótipo. A lista de pendências está no [roadmap](docs/roadmap.md).
 
-O diretório [firmware](firmware/README.md) está reservado para o código efetivamente utilizado. Ainda não há firmware disponível para compilar ou instruções completas para reproduzir a montagem. Os diretórios de [modelos 3D](modelos-3d/README.md) e [imagens](imagens/README.md) também contêm orientações para incorporar os materiais originais.
+O diretório [firmware](firmware/README.md) está reservado para o código efetivamente utilizado. Ainda não há firmware disponível para compilar ou instruções completas para reproduzir a montagem.
+
+## Registros visuais do projeto
+
+O repositório inclui fotografias e imagens produzidas durante o desenvolvimento e a divulgação do projeto. Entre os registros disponíveis estão:
+
+- [Protótipo v1](Prot%C3%B3tipo%20v1.png);
+- [Estação v1](Esta%C3%A7%C3%A3o%20v1.png);
+- [Anemômetro — registro 1](Anem%C3%B4metro%20%281%29.jpg);
+- [Anemômetro — registro 2](Anem%C3%B4metro%20%282%29.jpg);
+- [Direção do vento](Dire%C3%A7%C3%A3o%20do%20Vento.jpg);
+- [Prática com estudantes — registro 1](Pr%C3%A1tica%20%281%29.jpg);
+- [Prática com estudantes — registro 2](Pr%C3%A1tica%20%282%29.jpg);
+- [Prática com estudantes — registro 3](Pr%C3%A1tica%20%283%29.jpg);
+- [Teste na escola — registro 1](Teste%20na%20escola%201.jpg);
+- [Teste na escola — registro 2](Teste%20na%20escola%202.png);
+- [Vídeo de teste na escola](Teste%20na%20escola%203.mp4);
+- [Dados coletados](Dados%20Coletados.png);
+- [Resultados](Resultados.jpg);
+- [Apresentação do projeto no Programa Educação](Apresenta%C3%A7%C3%A3o%20do%20Projeto%20no%20Programa%20Educa%C3%A7%C3%A3o.png);
+- [INPE Portas Abertas 2025](INPE%20de%20Portas%20Abertas.jpg).
+
+Esses arquivos documentam o processo de desenvolvimento e divulgação do projeto. Eles não devem ser interpretados como comprovação de validação metrológica da miniestação.
+
+## Modelos 3D externos — referência complementar
+
+Foi adicionado ao repositório o conjunto **LTB Weather Station**, criado pelo usuário **RobWLakes** e publicado no Thingiverse:
+
+- Fonte original: https://www.thingiverse.com/thing:2849562
+- Pasta preservada no repositório: [LTB_Weather_Station_2849562](LTB_Weather_Station_2849562/)
+- Arquivos STL e fontes OpenSCAD: [files/](LTB_Weather_Station_2849562/files/)
+
+Esse conjunto **não foi desenvolvido pelos alunos do Clube de Robótica de Potim** e não deve ser confundido com as peças que estavam sendo criadas no projeto. Ele foi incluído como **referência externa de modelagem e possibilidade de continuidade**, especialmente para anemômetro, direção do vento, pluviômetro e estrutura.
+
+O arquivo de licença fornecido pelo projeto original informa licença **cc-nc**. Portanto, esses arquivos de terceiro **não estão cobertos pela licença MIT deste repositório** e devem ser utilizados conforme os termos definidos pelo autor original.
+
+Veja também a documentação em [modelos-3d/README.md](modelos-3d/README.md).
 
 ## Referência técnica e atribuição
 
@@ -111,4 +147,6 @@ Consulte os [registros de fontes e materiais pendentes](references/fontes.md).
 
 ## Licença
 
-O conteúdo original publicado neste repositório está sob a [licença MIT](LICENSE). A referência técnica externa conserva seus próprios direitos; sua citação não a inclui na licença deste repositório.
+O conteúdo original do projeto de Potim publicado neste repositório está sob a [licença MIT](LICENSE), quando aplicável.
+
+Materiais externos preservam suas próprias licenças. Em particular, os arquivos do diretório [LTB_Weather_Station_2849562](LTB_Weather_Station_2849562/) são de autoria de **RobWLakes**, foram obtidos a partir do Thingiverse e possuem licença própria indicada no arquivo [LICENSE.txt](LTB_Weather_Station_2849562/LICENSE.txt). Esses arquivos não estão cobertos pela licença MIT do restante do repositório.
