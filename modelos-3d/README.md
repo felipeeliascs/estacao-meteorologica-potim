@@ -1,22 +1,42 @@
 # Modelos 3D
 
-Diretório reservado aos arquivos do desenvolvimento dos sensores de velocidade e direção do vento e seus suportes.
+Este diretório documenta duas frentes diferentes:
 
-Os alunos do Clube de Robótica de Potim desenvolviam essas peças com impressão 3D e componentes de baixo custo. O trabalho foi interrompido antes da conclusão. Nenhum arquivo de modelagem ou impressão foi fornecido para esta versão.
+1. **peças desenvolvidas pelos alunos do Clube de Robótica de Potim**, relacionadas aos sensores de velocidade e direção do vento;
+2. **modelos 3D externos de terceiro**, adicionados apenas como referência complementar para estudo e eventual continuidade do projeto.
 
-## Registro para cada peça, quando disponível
+## Desenvolvimento dos alunos
 
-| Campo | Informação pendente |
+Os alunos trabalhavam em peças e suportes produzidos com impressão 3D e componentes de baixo custo. Essa etapa foi interrompida antes da conclusão devido à descontinuidade do Clube de Robótica.
+
+Os arquivos originais produzidos pelos estudantes ainda não foram organizados neste diretório. Quando forem localizados, devem ser documentados com autoria, finalidade, versão e estado real de teste.
+
+## Referência externa: LTB Weather Station
+
+Foi incorporado ao repositório o projeto **LTB Weather Station**, criado pelo usuário **RobWLakes** e publicado no Thingiverse:
+
+- Página original: https://www.thingiverse.com/thing:2849562
+- Pasta no repositório: [../LTB_Weather_Station_2849562/](../LTB_Weather_Station_2849562/)
+- Arquivos STL e OpenSCAD: [../LTB_Weather_Station_2849562/files/](../LTB_Weather_Station_2849562/files/)
+- Licença original: [../LTB_Weather_Station_2849562/LICENSE.txt](../LTB_Weather_Station_2849562/LICENSE.txt)
+
+O conjunto externo inclui peças para anemômetro, direção do vento, pluviômetro e estrutura. Ele **não foi desenvolvido pelos alunos de Potim** e não deve ser apresentado como parte autoral do projeto escolar.
+
+O material foi adicionado como **referência de modelagem e possibilidade de continuidade**.
+
+> A licença fornecida com o projeto original informa uso sob **cc-nc**. Os arquivos desse conjunto não estão cobertos pela licença MIT do restante do repositório.
+
+## Registro recomendado para futuras peças próprias
+
+| Campo | Informação |
 | --- | --- |
-| Nome e finalidade | [A PREENCHER: identificação e função da peça] |
-| Arquivos | [A PREENCHER: arquivos originais e exportações disponíveis] |
-| Autoria e origem | [A PREENCHER: autoria, fonte e licença aplicável] |
-| Versão e estágio | [A PREENCHER: versão e estado real do desenvolvimento] |
-| Dimensões | [A PREENCHER: medidas e unidades confirmadas] |
-| Impressão | [A PREENCHER: material e configurações efetivamente utilizados, se houve impressão] |
-| Montagem | [A PREENCHER: fixações e componentes complementares confirmados] |
-| Verificação | [A PREENCHER: testes realizados e seus registros, se existirem] |
+| Nome e finalidade | identificação e função da peça |
+| Arquivos | STL, STEP, SCAD ou arquivo-fonte disponível |
+| Autoria e origem | aluno(s), professor responsável ou fonte externa |
+| Versão e estágio | proposta, protótipo ou peça testada |
+| Dimensões | medidas confirmadas |
+| Impressão | material e parâmetros efetivamente utilizados |
+| Montagem | fixações e componentes complementares |
+| Verificação | testes realizados e registros disponíveis |
 
-Arquivos a adicionar devem indicar se representam uma proposta, um protótipo impresso ou uma peça verificada. Não há modelos finais ou desempenho validado disponibilizados aqui.
-
-Veja a documentação dos [sensores de vento](../docs/sensores-vento.md) e o [roadmap](../docs/roadmap.md).
+Veja também a documentação dos [sensores de vento](../docs/sensores-vento.md) e o [roadmap](../docs/roadmap.md).
